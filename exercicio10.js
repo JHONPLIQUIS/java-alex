@@ -1,4 +1,4 @@
-// Definindo as informações do livro Coraline
+// Definindo as informações do livro alessandro
 const titulo = "alessandro";
 const autor = "Neil Gaiman";
 const paginas = 208;
