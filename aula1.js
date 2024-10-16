@@ -4,7 +4,7 @@ const texto1 = "Olá Mundo";
      const stringDeNumeros = "34567";
 
      const citacao = 'Meu nome é ';
-     const meuNome = 'Ryan';
+     const meuNome = 'alessandro';
      
      console.log(citacao + meuNome)
 
