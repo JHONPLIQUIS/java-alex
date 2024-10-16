@@ -1,2 +1,2 @@
-let nomeCompleto = "vinicius alves" ;
+let nomeCompleto = "alessamdro" ;
 console.log("Bem-vindo(a), " + nomeCompleto + "!");
